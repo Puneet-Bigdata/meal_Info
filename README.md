@@ -1,8 +1,7 @@
-# Big data spark
+# Big_data_spark
 # meal_Info
-
-# what is Meal ?
-  A meal is an eating occasion that takes place at a certain time and includes prepared food. The names used for specific meals in English vary, depending on the speaker's culture, the time of day, or the size of the meal
+  
+  These are the following MongoDB commands that i am using in this project00.
   
 find()
 
@@ -27,3 +26,21 @@ insert_many()
 inserted_ids()
 
 sort()
+
+ These are the following MYSQL commands that i am using in this project00.
+ 
+ SELECT
+ 
+ UPDATE
+ 
+ INSERT
+ 
+ DELETE
+ 
+ DROP
+ 
+ SORT
+ 
+ LIMIT
+ 
+ 
