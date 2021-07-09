@@ -27,4 +27,4 @@ SELECT*FROM mytable;
 
 --sort in an order
 SELECT * FROM mytable;
-ORDER BY cuisine DES
+ORDER BY cuisine DES;
