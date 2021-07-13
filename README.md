@@ -2,21 +2,14 @@
 # meal_Info
 
 #SERVICE FUNCTION
-
 1.Install package PYMONGO
-
 2.Create Database
-
 3.Attach meal_info.json file into the source code.
-
 4.Call the function.
 
 #Requirements
-
 1.MongoDB
-
 2.Json file / document file
-
 3.Jupyter Notebook
 
 
